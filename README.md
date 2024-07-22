@@ -1,4 +1,4 @@
-# Module_4_Challenge
+# PortfolioAnalysis
 
 The focus of the challenge is Portfolio Analysis using Pandas Library in Python. The Jupyter Notebook framework provided for analysis is used to code various blocks as part of the challenge.
 
